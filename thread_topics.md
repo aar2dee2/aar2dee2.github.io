@@ -1,0 +1,12 @@
+- Virtual Machines - done on 2021/12/25
+- Containers & Docker
+- Cloud Computing
+- Namespaces
+- cgroups
+- Kubernetes
+- resources, processes, applications
+- NGINX
+- parsing
+- DevOps
+- Site Reliability
+- 
